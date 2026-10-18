@@ -14,7 +14,9 @@ permissions and data.
 
 - [SwitchPilot](https://github.com/PilotFoundry/switchpilot) — a small,
   privacy-first macOS menu bar utility for keep-awake, dark mode, screen saver,
-  lock screen, display sleep, microphone mute and screen cleaning.
+  lock screen, display sleep, microphone mute and screen cleaning. English,
+  简体中文, 繁體中文 and 日本語 UI; source and an ad-hoc universal download are
+  available.
 
 ## Principles
 
